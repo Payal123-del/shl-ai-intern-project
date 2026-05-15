@@ -1,0 +1,9 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+fastapi
+pydantic
+groq
+beautifulsoup4
+selenium
